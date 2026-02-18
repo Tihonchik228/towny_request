@@ -1,0 +1,7 @@
+name: Towny_request
+version: '1.0'
+main: com.github.Tihonchik228.towny_request.Towny_request
+api-version: '1.20'
+authors: [ Tihonchik ]
+description:
+  Данный плагин позволит вам отправлять запросы в города и не только. Плагин является Аддоном для плагина "Towny Advanced".
